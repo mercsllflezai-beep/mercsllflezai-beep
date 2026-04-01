@@ -1,16 +1,41 @@
-## Hi there 👋
+# Привет, я Вадим Чернов 👋
 
-<!--
-**mercsllflezai-beep/mercsllflezai-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎓 Студент КНИТУ-КАИ | 🐍 Python Developer
 
-Here are some ideas to get you started:
+Разрабатываю веб-приложения и люблю создавать удобные интерфейсы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Технологический стек
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Сейчас изучаю
+
+- **Docker** — контейнеризация приложений
+- **REST API** — углубленное проектирование интерфейсов
+- **Algorithmic Problem Solving** — решение задач на LeetCode/Codewars
+
+---
+
+### 📊 Моя статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📫 Контакты
+
+Свяжитесь со мной любым удобным способом:
+
+- **Telegram:** [@zwegner](https://t.me/zwegner)
+- **Email:** [airogoff@yandex.ru](mailto:airogoff@yandex.ru)
+
+---
